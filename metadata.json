@@ -1,0 +1,6 @@
+{
+  "name": "Slice Fire Pizza",
+  "description": "High-converting single-page pizza restaurant landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
